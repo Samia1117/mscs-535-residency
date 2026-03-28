@@ -1,0 +1,12 @@
+Subject: Urgent: Account Verification Required
+
+Dear Employee,
+
+We detected unusual activity on your company account. To avoid temporary suspension, please verify your credentials immediately using the secure internal portal below:
+
+https://company-it-support.example.com/verify
+
+Failure to verify within 24 hours may result in restricted access to email and HR systems.
+
+Regards,
+IT Support Team
